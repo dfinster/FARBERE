@@ -1,8 +1,8 @@
 # FARBERE
 
-Project Purplange presents FARBERE (Find and Replace Browser Extension with Regular Expressions), a fork of [Find and Replace Browser Extension](https://github.com/Dalimil/Find-and-Replace-Browser-Extension).
+A fork of [Find and Replace Browser Extension](https://github.com/Dalimil/Find-and-Replace-Browser-Extension).
 
-In version 1.3.19 the extension began collecting email addresses and some functions were placed behind a $3.99/month paywall. It also used analytics to track your behavior. Because version 1.3.17 is open source under Mozilla Public License Version 2.0, FARBERE was born. If it helps you, you are welcome to it.
+It might destroy your data. Please respect the upstream license.
 
 FARBERE features:
 
