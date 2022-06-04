@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{abcd1234-1abc-1234-12ab-abcdef123456}": {
+      "updates": [
+        {
+          "version": "2.0.2",
+          "update_link": "https://github.com/purplange/FARBERE/releases/download/2.0.2/farber-2.0.2-fx.xpi"
+        }
+      ]
+    }  
+  }
+}
