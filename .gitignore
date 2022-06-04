@@ -60,5 +60,4 @@ typings/
 # Extension packaging
 *.crx
 *.pem
-*.zip
-*.xpi
+.DS_Store
