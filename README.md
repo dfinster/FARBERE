@@ -1,10 +1,6 @@
 # FARBERE
 
-A fork of [Find and Replace Browser Extension](https://github.com/Dalimil/Find-and-Replace-Browser-Extension).
-
-It might destroy your data. Please respect the upstream license.
-
-FARBERE features:
+A fork of [Find and Replace Browser Extension](https://github.com/Dalimil/Find-and-Replace-Browser-Extension). It might destroy your data.
 
 * No paywall
 * No Google Analytics tracking
@@ -14,8 +10,6 @@ FARBERE features:
 * Open source under Mozilla Public License Version 2.0
 
 The icon is by [pixelmeetup](https://www.flaticon.com/authors/pixelmeetup) from www.flaticon.com.
-
-Provided “AS IS”. No warranties, express or implied. This may destroy your data. 
 
 ### Change Log
 
