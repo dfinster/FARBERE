@@ -1,6 +1,6 @@
 # FARBERE
 
-A fork of [Find and Replace Browser Extension](https://github.com/Dalimil/Find-and-Replace-Browser-Extension). It might destroy your data.
+A fork of [Find and Replace Browser Extension](https://github.com/Dalimil/Find-and-Replace-Browser-Extension). It might destroy your data. This fork makes the following updates:
 
 * No paywall
 * No Google Analytics tracking
